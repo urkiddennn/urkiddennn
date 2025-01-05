@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate developer from the Philippines</h3>
 
-- 🔭 I’m currently working on [Moodspot](https://github.com/urkiddennn/Moodspot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/urkiddennn](https://github.com/urkiddennn)
 
