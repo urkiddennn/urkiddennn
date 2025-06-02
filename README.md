@@ -1,32 +1,37 @@
-&lt;h1 align="center">Hi 👋, I'm Richard&lt;/h1>
-&lt;h3 align="center">A passionate developer from the Philippines&lt;/h3>
+# 👋 Hi, I'm Richard 
+### Software Engineer | Full-Stack Wizard | Flutter Enthusiast  
+⚡ Building fast, scalable, and pixel-perfect apps  
+🌍 Tech stack:  
 
--👨‍💻 All of my projects are available at https://github.com/urkiddennn
+## 🚀 Core Stack  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
--📫 How to reach me richardbanguiz@gmail.com
+## 🛠️ Tools & More  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
 
-&lt;h3 align="left">Connect with me:&lt;/h3>
-&lt;p align="left">
-&lt;a href="[suspicious link removed]" target="blank">&lt;img align="center" src="[suspicious link removed]" alt="urkidden" height="30" width="40" />&lt;/a>
-&lt;a href="[suspicious link removed]" target="blank">&lt;img align="center" src="[suspicious link removed]" alt="urkidden" height="30" width="40" />&lt;/a>
-&lt;a href="[suspicious link removed]" target="blank">&lt;img align="center" src="[suspicious link removed]" alt="richardbanguiz" height="30" width="40" />&lt;/a>
-&lt;a href="[suspicious link removed]" target="blank">&lt;img align="center" src="[suspicious link removed]" alt="urkidden" height="30" width="40" />&lt;/a>
-&lt;/p>
+## 📌 Pinned Repos  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1&theme=radical)](https://github.com/yourusername/repo1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo2&theme=radical)](https://github.com/yourusername/repo2)  
 
-&lt;h3 align="left">Languages and Tools:&lt;/h3>
-&lt;p align="left">
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="react" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="mongodb" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="go" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="express" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="html5" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="css3" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="javascript" width="40" height="40"/> &lt;/a>
-&lt;a href="[suspicious link removed]" target="_blank" rel="noreferrer"> &lt;img src="[suspicious link removed]" alt="flutter" width="40" height="40"/> &lt;/a>
-&lt;img src="[suspicious link removed]" alt="restful api"/>
-&lt;/p>
+## 📈 GitHub Stats  
+![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=urkiddennn&show_icons=true&theme=radical&hide_border=true)  
 
-&lt;h3 align="left">Support:&lt;/h3>
-&lt;p>&lt;a href="[suspicious link removed]"> &lt;img align="left" src="[suspicious link removed]" height="50" width="210" alt="urkidden" />&lt;/a>&lt;/p>&lt;br>&lt;br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urkiddennn&layout=compact&theme=radical&hide_border=true)  
 
-&lt;p>&lt;img align="center" src="[suspicious link removed]" alt="urkiddennn" />&lt;/p>
+## 📫 Let's Collaborate!  
+🔗 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+📧 **Email:** hello@yourwebsite.com  
+💼 **LinkedIn:** [Richard](https://linkedin.com/in/yourusername)  
+
+⚡ **Fun Fact:** I once debugged a production issue in my dreams.  
+
+---
+
+Made with ❤️ and Go
