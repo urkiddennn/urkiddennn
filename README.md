@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 ## 📌 Pinned Repos  
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1&theme=radical)](https://github.com/yourusername/repo1)  
