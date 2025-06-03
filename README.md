@@ -25,8 +25,8 @@
 
 ## 📫 Let's Collaborate!  
 🔗 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-📧 **Email:** hello@yourwebsite.com  
-💼 **LinkedIn:** [Richard](https://linkedin.com/in/yourusername)  
+📧 **Email:** richardbanguiz@gmail.com 
+💼 **LinkedIn:** [Richard]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/richard-banguiz-47b57a28a/))  
 
 ⚡ **Fun Fact:** I once debugged a production issue in my dreams.  
 
