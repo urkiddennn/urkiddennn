@@ -17,9 +17,6 @@
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
 ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
-## 📌 Pinned Repos  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1&theme=radical)](https://github.com/yourusername/repo1)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo2&theme=radical)](https://github.com/yourusername/repo2)  
 
 ## 📈 GitHub Stats  
 ![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=urkiddennn&show_icons=true&theme=radical&hide_border=true)  
