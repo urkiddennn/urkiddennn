@@ -5,6 +5,7 @@
 </div>
 
 ---
+![urkiddennn's GitHub Banner](https://raw.githubusercontent.com/urkiddennn/urkiddennn/main/banner.png)
 
 ## 🚀 Tech Stack & Tools
 
