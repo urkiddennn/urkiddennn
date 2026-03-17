@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="33%"><b>🎨 Frontend & Mobile</b></td>
     <td align="center" width="33%"><b>⚙️ Backend, DB & AI</b></td>
